@@ -1,0 +1,17 @@
+.boite {
+  height: 100px;
+  width: 100px;
+  border: solid black;
+}
+.boiteorange {
+  background-color: orange;
+}
+.boiteviolet {
+  background-color: violet;
+}
+
+.boitered {
+  background-color: red;
+  position: absolute;
+  left: 100px;
+}

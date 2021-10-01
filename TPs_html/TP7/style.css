@@ -1,0 +1,67 @@
+.title_police {
+  font-family: font-family "Roboto";
+  font-weight: 700px;
+  font-size: 70px;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(207, 204, 204);
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 14px;
+  padding-right: 10%;
+  padding-left: 10%;
+  text-align: justify;
+}
+.entete {
+  background-color: rgb(34, 33, 33);
+  height: 50px;
+  color: white;
+  border: 10px rgb(34, 33, 33);
+  text-align: center;
+}
+
+tbody > tr:nth-child(even) {
+  background-color: rgb(243, 239, 239);
+}
+table td:nth-child(odd) {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.image_style {
+  text-align: center;
+  border: 2px solid red;
+  background-color: rgba(34, 34, 37, 0.904);
+  color: white;
+  border-radius: 1%;
+  margin-top: 5%;
+  padding: 3%;
+}
+img {
+  width: 100%;
+}
+.red_text {
+  color: red;
+}
+.bleubox {
+  border: 3px dashed blue;
+  color: blue;
+  background: rgb(147, 147, 168);
+  padding: 2%;
+  text-align: justify;
+  margin: 0px 70px 0px 70px;
+}
+table {
+  margin: auto;
+  border-spacing: 0px;
+  margin-top: 3%;
+}
+.marginbottom {
+  margin-bottom: 3%;
+}
+td:hover {
+  background: rgb(32, 31, 31);
+}
